@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning CS50x
 - 💞️ I’m looking to collaborate on Open Communities
 - 📫 How to reach me anzhhxvi@gmail.com OR +963 996 579 493
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm an English Teacher in My home-town
 
 <!---
